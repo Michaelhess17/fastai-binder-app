@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/michaelhess17-fastai-binder-app-rc0tvnpg/voila/render/sample-fastai-binder-app.ipynb)
-
-# Pokemon Classifier 
-A simple web application to classify pokemon into 5 categories (pikachu, mew, entei, ho-oh, and lugia). Built using fastai, binder, and jupyter notebooks.
- 
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9841bd06c137a1b9fe387b2559c470b10ff08f10e218267f3816eadae4429c
+size 352

@@ -1,6 +1,3 @@
-fastcore
-fastai
-voila
-pillow>=7.1.0
-packaging
-ipywidgets==7.5.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b645a946fce20d5aa1d8293592436ddb1bec7b6ec4ac57bb82d4417501c75c3
+size 64
